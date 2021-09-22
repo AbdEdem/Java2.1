@@ -23,5 +23,5 @@ public class Main {
 
 Тестирование производилось в следующем окружении:
 * Laptop, Windows 8Pro 64-bit
-* Java v.11
+* Java v.11.0.12
 * IntelliJ IDEA v2021.2.2
